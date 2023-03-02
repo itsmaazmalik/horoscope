@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/horoscope/static/css/main.073c9b0a.css",
+    "main.js": "/horoscope/static/js/main.da11ea0d.js",
+    "static/media/pisces.jpg": "/horoscope/static/media/pisces.b1257e5d62ddc208d9dd.jpg",
+    "static/media/sagittarius.jpg": "/horoscope/static/media/sagittarius.47ec102f2731b6ef5e2b.jpg",
+    "static/media/aquarius.jpg": "/horoscope/static/media/aquarius.081637e138298dd64487.jpg",
+    "static/media/aries.jpg": "/horoscope/static/media/aries.8ce0cdf9d0b70b5ae4ed.jpg",
+    "static/media/gemini.jpg": "/horoscope/static/media/gemini.0ecd9b5aaa933e4fddbe.jpg",
+    "static/media/virgo.jpg": "/horoscope/static/media/virgo.b55bf56e3747d8b02e23.jpg",
+    "static/media/taurus.jpg": "/horoscope/static/media/taurus.30c7f06c9cddcebcfb89.jpg",
+    "static/media/capricorn.jpg": "/horoscope/static/media/capricorn.ff1968725df752745359.jpg",
+    "static/media/libra.jpg": "/horoscope/static/media/libra.c15cc4895896913d67d2.jpg",
+    "static/media/cancer.jpg": "/horoscope/static/media/cancer.79290d8a6db0310e30f6.jpg",
+    "static/media/scorpio.jpg": "/horoscope/static/media/scorpio.290a6c834b966442ff8b.jpg",
+    "static/media/leo.jpg": "/horoscope/static/media/leo.767640dad3245c7b9630.jpg",
+    "index.html": "/horoscope/index.html",
+    "main.073c9b0a.css.map": "/horoscope/static/css/main.073c9b0a.css.map",
+    "main.da11ea0d.js.map": "/horoscope/static/js/main.da11ea0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.da11ea0d.js"
+  ]
+}
