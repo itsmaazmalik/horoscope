@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/horoscope/static/css/main.073c9b0a.css",
-    "main.js": "/horoscope/static/js/main.da11ea0d.js",
+    "main.js": "/horoscope/static/js/main.3f5d4209.js",
     "static/media/pisces.jpg": "/horoscope/static/media/pisces.b1257e5d62ddc208d9dd.jpg",
     "static/media/sagittarius.jpg": "/horoscope/static/media/sagittarius.47ec102f2731b6ef5e2b.jpg",
     "static/media/aquarius.jpg": "/horoscope/static/media/aquarius.081637e138298dd64487.jpg",
@@ -16,10 +16,10 @@
     "static/media/leo.jpg": "/horoscope/static/media/leo.767640dad3245c7b9630.jpg",
     "index.html": "/horoscope/index.html",
     "main.073c9b0a.css.map": "/horoscope/static/css/main.073c9b0a.css.map",
-    "main.da11ea0d.js.map": "/horoscope/static/js/main.da11ea0d.js.map"
+    "main.3f5d4209.js.map": "/horoscope/static/js/main.3f5d4209.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.da11ea0d.js"
+    "static/js/main.3f5d4209.js"
   ]
 }
